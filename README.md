@@ -10,8 +10,8 @@ The series covers accessing satellite imagery, calculating NDVI, analyzing month
 
 | Tutorial | Topic | Video |
 | --- | --- | --- |
-| 1 | Sentinel-2 NDVI Analysis | [Browse the channel](https://www.youtube.com/@amirhosseinahrarigee/videos) |
-| 2 | Sentinel-2 Monthly NDVI Analysis | [Browse the channel](https://www.youtube.com/@amirhosseinahrarigee/videos) |
+| 1 | Sentinel-2 NDVI Analysis | [Watch tutorial](https://youtu.be/6nB0VSjVnAA) |
+| 2 | Sentinel-2 Monthly NDVI Analysis | [Watch tutorial](https://youtu.be/o33od1LXcFs) |
 | 3 | Sentinel-2 Land Cover and NDVI Analysis using Python | [Watch tutorial](https://youtu.be/PZfgMUvz6t4) |
 | 4 | Sentinel-2 NDVI Anomaly Detection using Python | [Watch tutorial](https://youtu.be/YaA2Ug9Sgp4) |
 | 5 | Sentinel-2 NDVI Coefficient of Variation (CV) Analysis using Python | [Watch tutorial](https://youtu.be/vTH_tM38A3s) |
