@@ -15,6 +15,7 @@ The series covers accessing satellite imagery, calculating NDVI, analyzing month
 | 3 | Sentinel-2 Land Cover and NDVI Analysis using Python | [Watch tutorial](https://youtu.be/PZfgMUvz6t4) |
 | 4 | Sentinel-2 NDVI Anomaly Detection using Python | [Watch tutorial](https://youtu.be/YaA2Ug9Sgp4) |
 | 5 | Sentinel-2 NDVI Coefficient of Variation (CV) Analysis using Python | [Watch tutorial](https://youtu.be/vTH_tM38A3s) |
+| 6 | Sentinel-2 Fraction of Vegetation Cover (FVC) Analysis in Python | [Watch tutorial](https://youtu.be/GoGISUgXf6g) |
 
 ## Repository status
 
@@ -29,6 +30,7 @@ The tutorial index is available here. The accompanying notebooks have not yet be
 - Use NDVI for land-cover analysis.
 - Detect NDVI anomalies.
 - Assess vegetation variability using the coefficient of variation.
+- Estimate Fraction of Vegetation Cover (FVC) from Sentinel-2 NDVI.
 
 ## Author
 
