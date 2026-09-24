@@ -1,6 +1,6 @@
 # PySTAC Tutorials
 
-Practical tutorials on Sentinel-2 satellite data analysis using Python, STAC, and xarray.
+Practical tutorials on Earth observation satellite data analysis using Python, STAC, and xarray.
 
 This repository accompanies the **PySTAC tutorial series** on my YouTube channel, [Google Earth Engine with Amirhossein Ahrari](https://www.youtube.com/@amirhosseinahrarigee).
 
